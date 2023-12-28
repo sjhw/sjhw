@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 I graduated from the University of California, Berkeley in May 2023 with a B.A. in Data Science!
-- ⚕️ I also specialized my degree with a domain emphasis on human and population health. 
+- ⚕️ I also specialized with a domain emphasis on human and population health. 
 - 🌎 I'm currently working at [Dotlas](https://www.linkedin.com/company/dotlas/) as a Data Scientist, where I build web/API scrapers & engineer pipelines to collect location intelligence in the real estate and restaurant industries.
-- 🍳 In my free time, I enjoy cooking and playing guitar.
+- 🧠 I like to work with [head-empty Nintendo music](https://youtu.be/Ba2q8bDTRTU?si=Qnd1UGQBPumDP_mu) in the background. It's an absolutely necessary step in my productivity routine.
+- 🍳 In my free time, I enjoy cooking and playing guitar!
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/stephenjh/) or [shoot me an email](mailto:hi@stephenhwang.com)!
