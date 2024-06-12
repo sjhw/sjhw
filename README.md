@@ -1,22 +1,7 @@
 ### Hi, I'm Stephen 👋
+[![Linkedin Badge](https://img.shields.io/badge/Stephen_Hwang-0077b5?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&link=https://www.linkedin.com/in/stephenjh/)](https://www.linkedin.com/in/stephenjh/)
+[![Website](https://img.shields.io/badge/Website-stephenhwang.com-red)](https://stephenhwang.com)
 
-<!--
-**stephenjh/stephenjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data enthusiast and aspiring gardener who enjoys growing succulents, vegetables, and robust data infrastructure. I'm also a UC Berkeley **Data Science** alum. Go bears! 🐻
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🎓 I graduated from the University of California, Berkeley in May 2023 with a B.A. in Data Science!
-- 🌱 I also specialized with a domain emphasis on human and population health. 
-- 🌎 I'm currently working at [Dotlas](https://www.linkedin.com/company/dotlas/) as a Data Scientist, where I build web/API scrapers & engineer pipelines to collect public data useful for competetitor & location intelligence in the real estate and retail industries.
-- 🍳 In my free time, I enjoy cooking and playing guitar!
-- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/stephenjh/) or [shoot me an email](mailto:hi@stephenhwang.com)!
+I'm currently working at [Dotlas](https://www.linkedin.com/company/dotlas/) as a Data Engineer, where I build web/API scrapers & engineer pipelines to collect public data useful for competetitor & location intelligence in the real estate and retail industries.
